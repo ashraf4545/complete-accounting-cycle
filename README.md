@@ -35,6 +35,22 @@ The project covers the complete accounting process from recording business trans
 - Excel-based Accounting
 - Accounting Reconciliation and Checking
 
+## Project Screenshots
+
+### Journal Entries
+![Journal Entries](Journal_Entries.png)
+
+### Ledger
+![Ledger](Ledger.png)
+
+### Trial Balance
+![Trial Balance](Trial_Balance.png)
+
+### Profit & Loss
+![Profit & Loss](Profit_and_Loss.png)
+
+### Balance Sheet
+![Balance Sheet](Balance_Sheet.png)
 ## Project Outcome
 The workbook demonstrates the flow of accounting information from source transactions through journal and ledger records to the final financial statements.
 
